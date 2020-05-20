@@ -1,0 +1,7 @@
+gtts
+wikipedia
+playsound
+pyttsx3
+pytz
+webbrowser
+speech_recognition
